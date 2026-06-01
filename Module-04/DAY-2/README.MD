@@ -24,8 +24,8 @@ To create  a Java program to perform the inheritance concept for employee detail
  ```
 /*
 Program to implement a Inheritance using Java
-Developed by: GANESH D
-Registeration Number : 212223240035
+Developed by: JAYAKUMAR B
+Registeration Number : 212223040073
 */
 ```
 
